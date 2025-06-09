@@ -2,19 +2,19 @@
 <p>•Criar uma interface visual onde um usuário (no caso, Isabela Torres) pode compartilhar suas experiências de viagem com fotos, localização, número de países visitados e uma breve biografia.</p>
 
 <h2>🗂️ Estrutura da Página</h2>
-<p>1. Cabeçalho (<head>)</p>
+<p>1. Cabeçalho (head)</p>
 <p>•Define o título da aba: Travelgram | Perfil de viagens.</p>
 
 <p>•Inclui fontes da Google Fonts (Poppins).</p>
 
 <p>•Aponta para uma folha de estilo externa (styles/index.css).</p>
 
-<p>2. Barra de Navegação (<nav>)</p>
+<p>2. Barra de Navegação <nav)</p>
 <p>•Logomarca no canto esquerdo.</p>
 
 <p>•Menu com ícone de busca, links para Explorer, Minhas viagens, e imagem do perfil do usuário.</p>
 
-<p>3. Perfil do Usuário (<header>)</p>
+<p>3. Perfil do Usuário (header)</p>
 <p>•Imagem e nome da usuária: Isabela Torres.</p>
 </p>
 
@@ -26,10 +26,10 @@
 
 <p>•📸 Fotos compartilhadas: 240.</p>
 
-<p>4. Galeria de Imagens (<main>)</p>
+<p>4. Galeria de Imagens (main)</p>
 <p>•Uma grade com 12 imagens representando viagens feitas pela usuária.</p>
 
-<p>5. Rodapé (<footer>)</p>
+<p>5. Rodapé (footer)</p>
 <p>•Marca da plataforma (Travelgram © 2025).</p>
 
 <p>•Links fictícios para "Termo de uso" e "Política de privacidade".</p>
